@@ -1,0 +1,44 @@
+* {
+	box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	background: #fff;
+	min-width: 320px;
+	font: 16px/20px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	height: 100%;
+}
+input,select {
+	font: 16px/20px Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+a{
+	color: #038cd6;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	border-collapse: collapse;
+	width: auto;
+}
+table th,
+table td {
+	height: 30px;
+	padding: 0;
+	text-align: left;
+	border-bottom: 1px solid #000;
+}
+
+.calendar {
+	margin: 0 20px;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
