@@ -49,7 +49,7 @@ function showTooltip(tooltip) {
 }
 
 function render(data) {
-	var template = handlebars.compile(require('html!./calendar.html'));
+	var template = handlebars.compile(require('html!./views/calendar.html'));
 
 	data.MinDate = moment(data.MinDate).startOf('month').startOf('week').format("YYYY-MM-DD");
 	data.MaxDate = moment(data.MaxDate).endOf('month').endOf('week').format("YYYY-MM-DD");
