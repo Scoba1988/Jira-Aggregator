@@ -6,6 +6,12 @@ module.exports = {
         path: __dirname,
         filename: "bundle.js"
     },
+    resolve: {
+        alias: {
+           handlebars: 'handlebars/dist/handlebars.min.js'
+        }
+    },
+    
     plugins: [
         new webpack.IgnorePlugin(/\.\/locale/),
         new webpack.DefinePlugin({

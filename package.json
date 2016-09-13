@@ -1,0 +1,26 @@
+{
+  "name": "jira-aggregator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Scoba1988/Jira-Aggregator.git"
+  },
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "moment": "^2.14.1",
+    "moment-range": "^2.1.0",
+    "webpack": "^1.13.2",
+    "handlebars": "^4.0.5"
+  },
+  "devDependencies": {
+    "html-loader": "^0.4.3",
+    "webpack-dev-server": "^1.15.0"
+  },
+  "author": "Igor Koba"
+}

@@ -1,0 +1,2072 @@
+{
+	"EpicsCount" : "69",
+	"MinDate" : "2015-07-23",
+	"MaxDate" : "2018-05-16",
+	"Teams" : [{
+			"Name" : "Ironhide",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-10705",
+							"Name" : "[HU] Login multiple 2",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-10705",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-04",
+							"DueDate" : "2016-09-30",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-04",
+									"DueDate" : "2016-09-02",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-02",
+									"DueDate" : "2016-09-30",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-13263",
+							"Name" : "[Common] Care: Virtual and standalone products/offers",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13263",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-01",
+							"DueDate" : "2017-01-01",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-01",
+									"DueDate" : "2016-10-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-11",
+									"DueDate" : "2017-01-01",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-2159",
+							"Name" : "[DK] Permission management",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-2159",
+							"Status" : "ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : null,
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2015-07-23",
+							"DueDate" : "2016-09-16",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2015-07-23",
+									"DueDate" : "2016-04-11",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-04-11",
+									"DueDate" : "2016-09-16",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12020",
+							"Name" : "[HU] B2B SOHO Selfcare",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12020",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "akoczka",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-07-14",
+							"DueDate" : "2016-09-16",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-07-14",
+									"DueDate" : "2016-08-12",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-12",
+									"DueDate" : "2016-09-16",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-3995",
+							"Name" : "[HU] Care - Permission settings",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-3995",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-11",
+							"DueDate" : "2016-09-29",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-11",
+									"DueDate" : "2016-09-30",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-30",
+									"DueDate" : "2016-09-29",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-2790",
+							"Name" : "[Common] Order/Manage Add-ons with attributes",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-2790",
+							"Status" : "Backlog",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : true,
+							"StartDate" : "2015-11-15",
+							"DueDate" : "2016-03-14",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2015-11-15",
+									"DueDate" : "2015-12-25",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2015-12-25",
+									"DueDate" : "2016-03-14",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "Architecture",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-5954",
+							"Name" : "[HU] ABCD offering - API connections",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-5954",
+							"Status" : "Design",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "evmu",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2016-10-21",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-10-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : true
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-10196",
+							"Name" : "LiveBEStatus - Phase3",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-10196",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-10-21",
+							"DueDate" : "2017-01-19",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-10-21",
+									"DueDate" : "2016-11-19",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-11-19",
+									"DueDate" : "2017-01-19",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13614",
+							"Name" : "Extend exception handling to allow analytics integration",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13614",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-04-28",
+							"DueDate" : "2017-06-27",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-04-28",
+									"DueDate" : "2017-05-17",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-05-17",
+									"DueDate" : "2017-06-27",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-10194",
+							"Name" : "LiveBEStatus - Phase1",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-10194",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2017-01-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-10-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-21",
+									"DueDate" : "2017-01-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13018",
+							"Name" : "Integrate Code Coverage functinality into CI",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13018",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-02-27",
+							"DueDate" : "2017-06-27",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-02-27",
+									"DueDate" : "2017-04-07",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-04-07",
+									"DueDate" : "2017-06-27",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12812",
+							"Name" : "BE LifeSupport utility",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12812",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-01-09",
+							"DueDate" : "2017-05-09",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-01-09",
+									"DueDate" : "2017-02-17",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-02-17",
+									"DueDate" : "2017-05-09",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12906",
+							"Name" : "Review redundant BE requests",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12906",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-12-30",
+							"DueDate" : "2017-02-28",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-12-30",
+									"DueDate" : "2017-01-18",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-01-18",
+									"DueDate" : "2017-02-28",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9545",
+							"Name" : "Logger improvements",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9545",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-08-10",
+							"DueDate" : "2016-09-07",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-10",
+									"DueDate" : "2016-08-12",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-12",
+									"DueDate" : "2016-09-07",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-7281",
+							"Name" : "[DK] Improve performance level",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-7281",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "martinboye",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2015-09-10",
+							"DueDate" : "2016-01-08",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2015-09-10",
+									"DueDate" : "2015-10-20",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2015-10-20",
+									"DueDate" : "2016-01-08",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-10195",
+							"Name" : "LiveBEStatus - Phase2",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-10195",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-08-15",
+							"DueDate" : "2016-08-31",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-15",
+									"DueDate" : "2016-08-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-21",
+									"DueDate" : "2016-08-31",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "Jazz",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12686",
+							"Name" : "[HU] Identification advanced",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12686",
+							"Status" : "Ready for ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "KTRY",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-01",
+							"DueDate" : "2016-09-28",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-01",
+									"DueDate" : "2016-08-17",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-17",
+									"DueDate" : "2016-09-28",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13510",
+							"Name" : "[HU] ABCD offering - My Offers page",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13510",
+							"Status" : "Backlog",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "bbitay",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-28",
+							"DueDate" : "2017-01-26",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-28",
+									"DueDate" : "2016-11-06",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-11-06",
+									"DueDate" : "2017-01-26",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9713",
+							"Name" : "[HU] FMCG Sim Activation",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9713",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "kbuz",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-19",
+							"DueDate" : "2016-11-03",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-19",
+									"DueDate" : "2016-09-13",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-13",
+									"DueDate" : "2016-11-03",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12506",
+							"Name" : "[HU] Identification: Additional address fields",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12506",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "teaalig",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-07-20",
+							"DueDate" : "2017-02-24",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-07-20",
+									"DueDate" : "2016-09-30",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-30",
+									"DueDate" : "2017-02-24",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11808",
+							"Name" : "Specify name and address on retail invoice",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11808",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "tp",
+							"Project" : "Hungary Launch Critical",
+							"Impediment" : false,
+							"StartDate" : "2017-01-10",
+							"DueDate" : "2017-03-11",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-01-10",
+									"DueDate" : "2017-01-29",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-01-29",
+									"DueDate" : "2017-03-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12019",
+							"Name" : "[HU] Billing address in shop flow ",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12019",
+							"Status" : "ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "ashi",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-07-18",
+							"DueDate" : "2016-09-16",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-07-18",
+									"DueDate" : "2016-08-19",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-19",
+									"DueDate" : "2016-09-16",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11444",
+							"Name" : "Choose commitment period on subscription pages",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11444",
+							"Status" : "ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "ashi",
+							"Project" : "Hungary Launch Critical",
+							"Impediment" : true,
+							"StartDate" : "2016-07-04",
+							"DueDate" : "2016-07-08",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-8479",
+							"Name" : "[DK] Hidden address support",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-8479",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "rthh",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-03-13",
+							"DueDate" : "2016-03-14",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : null,
+									"DueDate" : "2016-03-14",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11635",
+							"Name" : "Deposit discount for agents",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11635",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "tp",
+							"Project" : "Hungary Launch Critical",
+							"Impediment" : false,
+							"StartDate" : "2016-07-25",
+							"DueDate" : "2016-08-24",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-07-25",
+									"DueDate" : "2016-08-02",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-02",
+									"DueDate" : "2016-08-24",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-10677",
+							"Name" : "Print documents & contracts - HU",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-10677",
+							"Status" : "ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "ashi",
+							"Project" : "Hungary Launch Critical, Hungary 1.0",
+							"Impediment" : true,
+							"StartDate" : "2016-05-31",
+							"DueDate" : "2016-07-19",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-05-31",
+									"DueDate" : "2016-06-15",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-06-15",
+									"DueDate" : "2016-07-19",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "Dino",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12511",
+							"Name" : "[HU] Partner POS integration",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12511",
+							"Status" : "Prepared",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : null,
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-08",
+							"DueDate" : "2016-11-23",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-08",
+									"DueDate" : "2016-09-12",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-11-23",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-422",
+							"Name" : "[Common] Digital Signature Capture",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-422",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "XL",
+							"Assignee" : "tp",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2017-03-11",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-11-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-11-10",
+									"DueDate" : "2017-03-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9428",
+							"Name" : "Exception handling in Onescreen",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9428",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "olza",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-08",
+							"DueDate" : "2016-09-30",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-08",
+									"DueDate" : "2016-09-09",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-09",
+									"DueDate" : "2016-09-30",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13764",
+							"Name" : "Dino technical debt",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13764",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-11-11",
+							"DueDate" : "2017-03-11",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-11-11",
+									"DueDate" : "2016-12-20",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-12-20",
+									"DueDate" : "2017-03-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12849",
+							"Name" : "[HU] Warranty in retail",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12849",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "bbitay",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-08",
+							"DueDate" : "2016-10-07",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-08",
+									"DueDate" : "2016-08-28",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-28",
+									"DueDate" : "2016-10-07",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12014",
+							"Name" : "[Tech] Shop -> Offer setup tests",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12014",
+							"Status" : "Ready for ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-07-21",
+							"DueDate" : "2016-09-30",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : null,
+									"DueDate" : "2016-09-30",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9372",
+							"Name" : "[DK] [Tech] Design rework of OSEx - Master",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9372",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-02",
+							"DueDate" : "2016-10-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : "2016-09-02",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-02",
+									"DueDate" : "2016-10-10",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-13643",
+							"Name" : "[HU] [Tech] Design rework of OSEx - Integration",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13643",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-02",
+							"DueDate" : "2016-10-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : "2016-09-02",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-02",
+									"DueDate" : "2016-10-10",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "Bumblebee",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-6720",
+							"Name" : "[HU] Electronic Dunning letters in Selfcare",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-6720",
+							"Status" : "Design",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : true,
+							"StartDate" : "2016-07-14",
+							"DueDate" : "2017-01-21",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-07-14",
+									"DueDate" : "2016-09-15",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2017-01-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-509",
+							"Name" : "[DK] Return/replace product",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-509",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "voba",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-03-15",
+							"DueDate" : "2016-10-16",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-03-15",
+									"DueDate" : "2016-08-12",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-08-12",
+									"DueDate" : "2016-10-16",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-8476",
+							"Name" : "[Common] Shop: Add-ons rules and prices",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-8476",
+							"Status" : "Backlog",
+							"Priority" : "Unassigned",
+							"Size" : "XL",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2017-03-11",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-11-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-11-10",
+									"DueDate" : "2017-03-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12866",
+							"Name" : "[HU] Care - Greenfield access",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12866",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : "zorban",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-01",
+							"DueDate" : "2016-09-17",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-01",
+									"DueDate" : "2016-09-06",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-06",
+									"DueDate" : "2016-09-17",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-6898",
+							"Name" : "[HU] B2C/B2B Soho: Regret order",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-6898",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "XL",
+							"Assignee" : "artoth",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-06",
+							"DueDate" : "2016-10-31",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : null,
+									"DueDate" : "2016-10-31",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "Wheeljack",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11457",
+							"Name" : "[HU] Be able to pass ETM flow",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11457",
+							"Status" : "Design",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "bbitay",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-08-30",
+							"DueDate" : "2016-10-21",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-30",
+									"DueDate" : "2016-09-16",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-16",
+									"DueDate" : "2016-10-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13530",
+							"Name" : "[DK] B2C Fixed: Shop landing page. LC.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13530",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-10-21",
+							"DueDate" : "2017-02-18",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-10-21",
+									"DueDate" : "2016-11-29",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-11-29",
+									"DueDate" : "2017-02-18",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13557",
+							"Name" : "[DK] Fixed Launch Critical, Part 6: B2B Shop: Location search and fixed products.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13557",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-05-09",
+							"DueDate" : "2017-09-06",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-05-09",
+									"DueDate" : "2017-06-17",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-06-17",
+									"DueDate" : "2017-09-06",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13562",
+							"Name" : "13560",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13562",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-11-25",
+							"DueDate" : "2018-03-25",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-11-25",
+									"DueDate" : "2018-01-03",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2018-01-03",
+									"DueDate" : "2018-03-25",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-5967",
+							"Name" : "[HU] B2C: Handset upgrade",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-5967",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "artoth",
+							"Project" : "One Screen 2.0",
+							"Impediment" : true,
+							"StartDate" : "2016-08-15",
+							"DueDate" : "2016-12-15",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-08-15",
+									"DueDate" : "2016-09-24",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-24",
+									"DueDate" : "2016-12-15",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13556",
+							"Name" : "[DK] Fixed Launch Critical (?), Part 5: B2B Basic.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13556",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-03-05",
+							"DueDate" : "2017-07-03",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-03-05",
+									"DueDate" : "2017-04-13",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-04-13",
+									"DueDate" : "2017-07-03",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13561",
+							"Name" : "[DK] Fixed Advanced: B2B Shop: Bulk import / export.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13561",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-09-21",
+							"DueDate" : "2018-01-19",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-09-21",
+									"DueDate" : "2017-10-30",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-10-30",
+									"DueDate" : "2018-01-19",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12292",
+							"Name" : "[Tech] Unify usage of offer synchronzation jobs",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12292",
+							"Status" : "Backlog",
+							"Priority" : "Unassigned",
+							"Size" : "S",
+							"Assignee" : null,
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-03",
+							"DueDate" : "2016-11-03",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-03",
+									"DueDate" : "2016-09-23",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-23",
+									"DueDate" : "2016-11-03",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13545",
+							"Name" : "[DK] B2C Fixed: Basket, Delivery, O.S, Payment and Confirm. LC.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13545",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-01-22",
+							"DueDate" : "2017-05-22",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-01-22",
+									"DueDate" : "2017-03-02",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-03-02",
+									"DueDate" : "2017-05-22",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13560",
+							"Name" : "[DK] Fixed Launch Critical, Part 7: B2B Shop: Configuration and add-ons.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13560",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-08-10",
+							"DueDate" : "2017-12-08",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-08-10",
+									"DueDate" : "2017-09-18",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-09-18",
+									"DueDate" : "2017-12-08",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-13538",
+							"Name" : "[DK] B2C Fixed: Add-ons and Installation. LC / Advanced.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13538",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-12-12",
+							"DueDate" : "2017-04-11",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-12-12",
+									"DueDate" : "2017-01-20",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-01-20",
+									"DueDate" : "2017-04-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13558",
+							"Name" : "[DK] Fixed Advanced: B2B Shop: Questionnaire and recommendation",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13558",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-06-30",
+							"DueDate" : "2017-10-28",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-06-30",
+									"DueDate" : "2017-08-08",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-08-08",
+									"DueDate" : "2017-10-28",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13725",
+							"Name" : "[DK] B2C Fixed: Self-care. Advanced.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13725",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "jbas",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2018-01-16",
+							"DueDate" : "2018-05-16",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2018-01-16",
+									"DueDate" : "2018-02-24",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2018-02-24",
+									"DueDate" : "2018-05-16",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : true,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11792",
+							"Name" : "Shop: prices rounding",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11792",
+							"Status" : "ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "ashi",
+							"Project" : "Hungary Launch Critical",
+							"Impediment" : true,
+							"StartDate" : "2016-06-27",
+							"DueDate" : "2016-07-21",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : null,
+									"DueDate" : "2016-07-21",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "OSEx",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9373",
+							"Name" : "Offline stock counting",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9373",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : "artoth",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2016-12-11",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-10-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-11",
+									"DueDate" : "2016-12-11",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-11853",
+							"Name" : "osex - 3rd party accessories",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11853",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-12-11",
+							"DueDate" : "2017-04-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-12-11",
+									"DueDate" : "2017-01-19",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-01-19",
+									"DueDate" : "2017-04-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-9344",
+							"Name" : "OSEx to BE integration",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9344",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-05-10",
+							"DueDate" : "2017-08-08",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-05-10",
+									"DueDate" : "2017-06-08",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-06-08",
+									"DueDate" : "2017-08-08",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13707",
+							"Name" : "[DK] OSEx: Inventory surplus",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13707",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-08-08",
+							"DueDate" : "2017-12-06",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-08-08",
+									"DueDate" : "2017-09-16",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-09-16",
+									"DueDate" : "2017-12-06",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9374",
+							"Name" : "EAN codes support",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9374",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2017-01-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-10-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-21",
+									"DueDate" : "2017-01-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-9370",
+							"Name" : "OSEx tech debt #1",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9370",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "XL",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-03-11",
+							"DueDate" : "2017-09-07",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-03-11",
+									"DueDate" : "2017-05-09",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-05-09",
+									"DueDate" : "2017-09-07",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9375",
+							"Name" : "OSEx advanced",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9375",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-11-20",
+							"DueDate" : "2017-03-20",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-11-20",
+									"DueDate" : "2016-12-29",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-12-29",
+									"DueDate" : "2017-03-20",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9376",
+							"Name" : "Write-off",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9376",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-02-27",
+							"DueDate" : "2017-05-28",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-02-27",
+									"DueDate" : "2017-03-28",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-03-28",
+									"DueDate" : "2017-05-28",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-9513",
+							"Name" : "[Tech] OSEx tech debt #2",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9513",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-07-07",
+							"DueDate" : "2017-11-04",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-07-07",
+									"DueDate" : "2017-08-15",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-08-15",
+									"DueDate" : "2017-11-04",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11301",
+							"Name" : "[DK] other: OSEx- inventory unblock",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11301",
+							"Status" : "Development",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "artoth",
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-05",
+							"DueDate" : "2016-09-23",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-05",
+									"DueDate" : "2016-09-06",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-09-06",
+									"DueDate" : "2016-09-23",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : true,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-11850",
+							"Name" : "Mass recall",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11850",
+							"Status" : "Ready for ISIT",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-07-25",
+							"DueDate" : "2016-10-30",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : null,
+									"DueDate" : null,
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : null,
+									"DueDate" : "2016-10-30",
+									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}, {
+			"Name" : "CM",
+			"Timelines" : [{
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12480",
+							"Name" : "Auto Deploy Finalization",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12480",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olbi",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2017-01-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-10-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-21",
+									"DueDate" : "2017-01-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13006",
+							"Name" : "[Tech] Content migrations - Phase 2",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13006",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olbi",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-05-08",
+							"DueDate" : "2017-09-05",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-05-08",
+									"DueDate" : "2017-06-16",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-06-16",
+									"DueDate" : "2017-09-05",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12489",
+							"Name" : "Auto Deploy Finalization HU",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12489",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olbi",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-09-12",
+							"DueDate" : "2017-01-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-12",
+									"DueDate" : "2016-10-21",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-21",
+									"DueDate" : "2017-01-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12493",
+							"Name" : "Auto Deploy Finalization DK",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12493",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olbi",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-01-09",
+							"DueDate" : "2017-05-09",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-01-09",
+									"DueDate" : "2017-02-17",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-02-17",
+									"DueDate" : "2017-05-09",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-12997",
+							"Name" : "DB Sharing functionality",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12997",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "akal",
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-01-09",
+							"DueDate" : "2017-05-09",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-01-09",
+									"DueDate" : "2017-02-17",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-02-17",
+									"DueDate" : "2017-05-09",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

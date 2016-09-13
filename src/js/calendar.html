@@ -1,0 +1,90 @@
+<div class="bg-panel"></div>
+<div class="shadow-line"></div>
+{{#timeline-header MinDate MaxDate}}
+	<div class="chart-header">
+		<table class="chart-table">
+			<tr>
+				{{#each cells}}
+
+					<th class="
+						{{#if startOfMonth}}
+							start-of-month
+							{{#if currentMonth}}
+								current-month
+							{{/if}}
+						{{/if}}
+						{{#if currentWeek}}
+							current-week
+							current-day-{{today}}
+						{{/if}}
+						">
+						<div class="week">
+							{{week}}
+							{{#if startOfMonth}}
+								<span class="month">{{monthName}}</span>
+							{{/if}}
+						</div>
+					</th>
+				{{/each}}
+			</tr>
+		</table>
+	</div>
+{{/timeline-header}}
+
+<div class="chart">
+	<div class="chart-holder">
+		{{#each Teams}}
+			<div class="row">
+				<div class="name">
+					<p><span>{{Name}}</span></p>
+				</div>
+
+				<ul class="timeline">
+					{{#each Timelines}}
+						{{#timeline-row @root.MinDate @root.MaxDate Epics HasInvalidDates}}
+							<li>
+								{{#each row}}
+
+									{{#if isEmpty}}
+										<div class="empty" style="width: {{ width }}"></div>
+									{{else}}
+										<div class="
+											epic
+											{{#if epicImpediment}}
+												with-impediment
+											{{/if}}
+											" style="width: {{ width }}">
+											<p class="epic-name"> <span class="impediment-flag"></span> {{epicName}}</p>
+
+											{{#each phases}}
+												<div class="
+													phase
+													{{state phaseType 'design' equal='SpecificationToDesign'}}
+													{{state phaseType 'isit' equal='PreparedToIsit'}}
+													{{state IsProgrammaticallyEstimated 'progamatically-estimated'}}
+													{{state ToBeContinued 'needs-veris'}}
+												" style="width: {{ width }}"></div>
+											{{/each}}
+
+										 	{{> tooltip}}
+										</div>
+									{{/if}}
+								{{/each}}
+							</li>
+							{{else}} 
+							<li>
+								<div class="epic invalid"  style="width: {{ width }};">
+									<p class="epic-name">{{epicName}}</p>
+
+									{{> tooltip}}
+								</div>
+							</li>
+						{{/timeline-row}}
+					{{/each}}
+				</ul>
+			</div>
+		{{/each}}
+	</div>
+</div>
+
+
