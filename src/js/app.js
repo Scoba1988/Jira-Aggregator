@@ -12,7 +12,7 @@ handlebars.registerPartial('tooltip', require('html!./views/tooltip.html'));
 
 
 $(document).ready(function() {
-	setTimeout(init, 2000);
+	init();
 });
 
 function init() {
