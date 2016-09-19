@@ -1,7 +1,7 @@
 {
-	"EpicsCount" : "69",
+	"EpicsCount" : "72",
 	"MinDate" : "2015-07-23",
-	"MaxDate" : "2018-05-16",
+	"MaxDate" : "2018-06-13",
 	"Teams" : [{
 			"Name" : "Ironhide",
 			"Timelines" : [{
@@ -207,12 +207,12 @@
 							"Assignee" : "evmu",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2016-10-21",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2016-10-24",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-10-21",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-10-24",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : true
 								}
@@ -227,18 +227,18 @@
 							"Assignee" : "olza",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-10-21",
-							"DueDate" : "2017-01-19",
+							"StartDate" : "2016-10-24",
+							"DueDate" : "2017-01-22",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-10-21",
-									"DueDate" : "2016-11-19",
+									"StartDate" : "2016-10-24",
+									"DueDate" : "2016-11-22",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-11-19",
-									"DueDate" : "2017-01-19",
+									"StartDate" : "2016-11-22",
+									"DueDate" : "2017-01-22",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -253,18 +253,18 @@
 							"Assignee" : "olza",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-04-28",
-							"DueDate" : "2017-06-27",
+							"StartDate" : "2017-05-01",
+							"DueDate" : "2017-06-30",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-04-28",
-									"DueDate" : "2017-05-17",
+									"StartDate" : "2017-05-01",
+									"DueDate" : "2017-05-20",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-05-17",
-									"DueDate" : "2017-06-27",
+									"StartDate" : "2017-05-20",
+									"DueDate" : "2017-06-30",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -284,18 +284,18 @@
 							"Assignee" : "olza",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2017-01-10",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2017-01-13",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-10-21",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-10-24",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-10-21",
-									"DueDate" : "2017-01-10",
+									"StartDate" : "2016-10-24",
+									"DueDate" : "2017-01-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -310,18 +310,18 @@
 							"Assignee" : "olza",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-02-27",
-							"DueDate" : "2017-06-27",
+							"StartDate" : "2017-03-02",
+							"DueDate" : "2017-06-30",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-02-27",
-									"DueDate" : "2017-04-07",
+									"StartDate" : "2017-03-02",
+									"DueDate" : "2017-04-10",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-04-07",
-									"DueDate" : "2017-06-27",
+									"StartDate" : "2017-04-10",
+									"DueDate" : "2017-06-30",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -341,18 +341,18 @@
 							"Assignee" : "olza",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-01-09",
-							"DueDate" : "2017-05-09",
+							"StartDate" : "2017-01-12",
+							"DueDate" : "2017-05-12",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-01-09",
-									"DueDate" : "2017-02-17",
+									"StartDate" : "2017-01-12",
+									"DueDate" : "2017-02-20",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-02-17",
-									"DueDate" : "2017-05-09",
+									"StartDate" : "2017-02-20",
+									"DueDate" : "2017-05-12",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -372,18 +372,18 @@
 							"Assignee" : null,
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-12-30",
-							"DueDate" : "2017-02-28",
+							"StartDate" : "2017-01-02",
+							"DueDate" : "2017-03-03",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-12-30",
-									"DueDate" : "2017-01-18",
+									"StartDate" : "2017-01-02",
+									"DueDate" : "2017-01-21",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-01-18",
-									"DueDate" : "2017-02-28",
+									"StartDate" : "2017-01-21",
+									"DueDate" : "2017-03-03",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -551,7 +551,7 @@
 							"Key" : "ONESCREEN-9713",
 							"Name" : "[HU] FMCG Sim Activation",
 							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9713",
-							"Status" : "Specification",
+							"Status" : "Prepared",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "kbuz",
@@ -619,18 +619,18 @@
 							"Assignee" : "tp",
 							"Project" : "Hungary Launch Critical",
 							"Impediment" : false,
-							"StartDate" : "2017-01-10",
-							"DueDate" : "2017-03-11",
+							"StartDate" : "2017-01-13",
+							"DueDate" : "2017-03-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-01-10",
-									"DueDate" : "2017-01-29",
+									"StartDate" : "2017-01-13",
+									"DueDate" : "2017-02-01",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-01-29",
-									"DueDate" : "2017-03-11",
+									"StartDate" : "2017-02-01",
+									"DueDate" : "2017-03-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -670,7 +670,7 @@
 					]
 				}, {
 					"HasInvalidDates" : true,
-					"HasObsoleteEpics" : true,
+					"HasObsoleteEpics" : false,
 					"Epics" : [{
 							"Key" : "ONESCREEN-11444",
 							"Name" : "Choose commitment period on subscription pages",
@@ -682,7 +682,7 @@
 							"Project" : "Hungary Launch Critical",
 							"Impediment" : true,
 							"StartDate" : "2016-07-04",
-							"DueDate" : "2016-07-08",
+							"DueDate" : "2016-09-18",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
 									"StartDate" : null,
@@ -692,8 +692,8 @@
 								}, {
 									"PhaseType" : "PreparedToIsit",
 									"StartDate" : null,
-									"DueDate" : null,
-									"IsProgrammaticallyEstimated" : true,
+									"DueDate" : "2016-09-18",
+									"IsProgrammaticallyEstimated" : false,
 									"ToBeContinued" : false
 								}
 							]
@@ -840,18 +840,18 @@
 							"Assignee" : "tp",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2017-03-11",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2017-03-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-11-10",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-11-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-11-10",
-									"DueDate" : "2017-03-11",
+									"StartDate" : "2016-11-13",
+									"DueDate" : "2017-03-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -897,18 +897,18 @@
 							"Assignee" : null,
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-11-11",
-							"DueDate" : "2017-03-11",
+							"StartDate" : "2016-11-14",
+							"DueDate" : "2017-03-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-11-11",
-									"DueDate" : "2016-12-20",
+									"StartDate" : "2016-11-14",
+									"DueDate" : "2016-12-23",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-12-20",
-									"DueDate" : "2017-03-11",
+									"StartDate" : "2016-12-23",
+									"DueDate" : "2017-03-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -941,6 +941,37 @@
 									"StartDate" : "2016-08-28",
 									"DueDate" : "2016-10-07",
 									"IsProgrammaticallyEstimated" : false,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-13961",
+							"Name" : "[HU] Digital signature capture",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13961",
+							"Status" : "Specification",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : "Hungary 1.0",
+							"Impediment" : false,
+							"StartDate" : "2016-09-14",
+							"DueDate" : "2017-01-14",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-09-14",
+									"DueDate" : "2016-10-24",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2016-10-24",
+									"DueDate" : "2017-01-14",
+									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
@@ -1118,18 +1149,18 @@
 							"Assignee" : "zorban",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2017-03-11",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2017-03-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-11-10",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-11-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-11-10",
-									"DueDate" : "2017-03-11",
+									"StartDate" : "2016-11-13",
+									"DueDate" : "2017-03-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1232,79 +1263,79 @@
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-13530",
-							"Name" : "[DK] B2C Fixed: Shop landing page. LC.",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13530",
+							"Key" : "ONESCREEN-13545",
+							"Name" : "[DK] B2C Fixed: Basket, Delivery, O.S, Payment and Confirm. LC.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13545",
 							"Status" : "Analysis",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2016-10-21",
-							"DueDate" : "2017-02-18",
+							"StartDate" : "2017-01-09",
+							"DueDate" : "2017-05-09",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-10-21",
-									"DueDate" : "2016-11-29",
+									"StartDate" : "2017-01-09",
+									"DueDate" : "2017-02-17",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-11-29",
-									"DueDate" : "2017-02-18",
+									"StartDate" : "2017-02-17",
+									"DueDate" : "2017-05-09",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-13557",
-							"Name" : "[DK] Fixed Launch Critical, Part 6: B2B Shop: Location search and fixed products.",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13557",
+							"Key" : "ONESCREEN-13561",
+							"Name" : "[DK] Fixed Advanced: B2B Shop: Bulk import / export.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13561",
 							"Status" : "Open",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2017-05-09",
-							"DueDate" : "2017-09-06",
+							"StartDate" : "2017-07-28",
+							"DueDate" : "2017-11-25",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-05-09",
-									"DueDate" : "2017-06-17",
+									"StartDate" : "2017-07-28",
+									"DueDate" : "2017-09-05",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-06-17",
-									"DueDate" : "2017-09-06",
+									"StartDate" : "2017-09-05",
+									"DueDate" : "2017-11-25",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-13562",
-							"Name" : "13560",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13562",
+							"Key" : "ONESCREEN-13900",
+							"Name" : "[DK] Fixed B2B Shop: Advanced shop flow. Priority High",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13900",
 							"Status" : "Open",
 							"Priority" : "Unassigned",
 							"Size" : "L",
-							"Assignee" : "jbas",
+							"Assignee" : null,
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2017-11-25",
-							"DueDate" : "2018-03-25",
+							"StartDate" : "2018-02-13",
+							"DueDate" : "2018-06-13",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-11-25",
-									"DueDate" : "2018-01-03",
+									"StartDate" : "2018-02-13",
+									"DueDate" : "2018-03-24",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2018-01-03",
-									"DueDate" : "2018-03-25",
+									"StartDate" : "2018-03-24",
+									"DueDate" : "2018-06-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1341,10 +1372,10 @@
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-13556",
-							"Name" : "[DK] Fixed Launch Critical (?), Part 5: B2B Basic.",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13556",
-							"Status" : "Open",
+							"Key" : "ONESCREEN-13557",
+							"Name" : "[DK] Fixed B2B Shop: Location search and fixed products. Priority: LC.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13557",
+							"Status" : "Analysis",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
@@ -1367,10 +1398,10 @@
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-13561",
-							"Name" : "[DK] Fixed Advanced: B2B Shop: Bulk import / export.",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13561",
-							"Status" : "Open",
+							"Key" : "ONESCREEN-13562",
+							"Name" : "13560",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13562",
+							"Status" : "Analysis",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
@@ -1401,76 +1432,102 @@
 							"Key" : "ONESCREEN-12292",
 							"Name" : "[Tech] Unify usage of offer synchronzation jobs",
 							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-12292",
-							"Status" : "Backlog",
+							"Status" : "Specification",
 							"Priority" : "Unassigned",
 							"Size" : "S",
 							"Assignee" : null,
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2016-09-03",
-							"DueDate" : "2016-11-03",
+							"StartDate" : "2016-09-13",
+							"DueDate" : "2016-10-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-03",
+									"StartDate" : "2016-09-13",
 									"DueDate" : "2016-09-23",
-									"IsProgrammaticallyEstimated" : true,
+									"IsProgrammaticallyEstimated" : false,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
 									"StartDate" : "2016-09-23",
-									"DueDate" : "2016-11-03",
+									"DueDate" : "2016-10-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-13545",
-							"Name" : "[DK] B2C Fixed: Basket, Delivery, O.S, Payment and Confirm. LC.",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13545",
+							"Key" : "ONESCREEN-13538",
+							"Name" : "[DK] B2C Fixed: VoIP and technician. Priority: LC",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13538",
 							"Status" : "Analysis",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2017-01-22",
-							"DueDate" : "2017-05-22",
+							"StartDate" : "2016-11-23",
+							"DueDate" : "2017-03-23",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-01-22",
-									"DueDate" : "2017-03-02",
+									"StartDate" : "2016-11-23",
+									"DueDate" : "2017-01-01",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-03-02",
-									"DueDate" : "2017-05-22",
+									"StartDate" : "2017-01-01",
+									"DueDate" : "2017-03-23",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
 						}, {
 							"Key" : "ONESCREEN-13560",
-							"Name" : "[DK] Fixed Launch Critical, Part 7: B2B Shop: Configuration and add-ons.",
+							"Name" : "[DK] Fixed B2B Shop: VoIP and technician. Priority: LC.",
 							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13560",
-							"Status" : "Open",
+							"Status" : "Analysis",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2017-08-10",
-							"DueDate" : "2017-12-08",
+							"StartDate" : "2017-06-11",
+							"DueDate" : "2017-10-09",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-08-10",
-									"DueDate" : "2017-09-18",
+									"StartDate" : "2017-06-11",
+									"DueDate" : "2017-07-20",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-09-18",
-									"DueDate" : "2017-12-08",
+									"StartDate" : "2017-07-20",
+									"DueDate" : "2017-10-09",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13896",
+							"Name" : "[DK] B2C Fixed: Family discount. Priority: High",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13896",
+							"Status" : "Analysis",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : "One Screen 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-12-28",
+							"DueDate" : "2018-04-27",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-12-28",
+									"DueDate" : "2018-02-05",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2018-02-05",
+									"DueDate" : "2018-04-27",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1481,34 +1538,34 @@
 					"HasInvalidDates" : false,
 					"HasObsoleteEpics" : false,
 					"Epics" : [{
-							"Key" : "ONESCREEN-13538",
-							"Name" : "[DK] B2C Fixed: Add-ons and Installation. LC / Advanced.",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13538",
+							"Key" : "ONESCREEN-13530",
+							"Name" : "[DK] B2C Fixed: Location Search and Fixed products. Priority: LC.",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13530",
 							"Status" : "Analysis",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2016-12-12",
-							"DueDate" : "2017-04-11",
+							"StartDate" : "2016-09-28",
+							"DueDate" : "2017-01-26",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-12-12",
-									"DueDate" : "2017-01-20",
+									"StartDate" : "2016-09-28",
+									"DueDate" : "2016-11-06",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-01-20",
-									"DueDate" : "2017-04-11",
+									"StartDate" : "2016-11-06",
+									"DueDate" : "2017-01-26",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
 						}, {
 							"Key" : "ONESCREEN-13558",
-							"Name" : "[DK] Fixed Advanced: B2B Shop: Questionnaire and recommendation",
+							"Name" : "[DK] Fixed B2B Shop: Recommendation. Priority: High.",
 							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13558",
 							"Status" : "Open",
 							"Priority" : "Unassigned",
@@ -1516,18 +1573,18 @@
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2017-06-30",
-							"DueDate" : "2017-10-28",
+							"StartDate" : "2017-04-16",
+							"DueDate" : "2017-08-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-06-30",
-									"DueDate" : "2017-08-08",
+									"StartDate" : "2017-04-16",
+									"DueDate" : "2017-05-25",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-08-08",
-									"DueDate" : "2017-10-28",
+									"StartDate" : "2017-05-25",
+									"DueDate" : "2017-08-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1542,18 +1599,18 @@
 							"Assignee" : "jbas",
 							"Project" : "One Screen 2.0",
 							"Impediment" : false,
-							"StartDate" : "2018-01-16",
-							"DueDate" : "2018-05-16",
+							"StartDate" : "2017-11-02",
+							"DueDate" : "2018-03-02",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2018-01-16",
-									"DueDate" : "2018-02-24",
+									"StartDate" : "2017-11-02",
+									"DueDate" : "2017-12-11",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2018-02-24",
-									"DueDate" : "2018-05-16",
+									"StartDate" : "2017-12-11",
+									"DueDate" : "2018-03-02",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1608,18 +1665,18 @@
 							"Assignee" : "artoth",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2016-12-11",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2016-12-14",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-10-11",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-10-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-10-11",
-									"DueDate" : "2016-12-11",
+									"StartDate" : "2016-10-14",
+									"DueDate" : "2016-12-14",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1634,18 +1691,18 @@
 							"Assignee" : null,
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-12-11",
-							"DueDate" : "2017-04-10",
+							"StartDate" : "2016-12-14",
+							"DueDate" : "2017-04-13",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-12-11",
-									"DueDate" : "2017-01-19",
+									"StartDate" : "2016-12-14",
+									"DueDate" : "2017-01-22",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-01-19",
-									"DueDate" : "2017-04-10",
+									"StartDate" : "2017-01-22",
+									"DueDate" : "2017-04-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1660,18 +1717,18 @@
 							"Assignee" : null,
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-05-10",
-							"DueDate" : "2017-08-08",
+							"StartDate" : "2017-05-13",
+							"DueDate" : "2017-08-11",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-05-10",
-									"DueDate" : "2017-06-08",
+									"StartDate" : "2017-05-13",
+									"DueDate" : "2017-06-11",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-06-08",
-									"DueDate" : "2017-08-08",
+									"StartDate" : "2017-06-11",
+									"DueDate" : "2017-08-11",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1686,18 +1743,18 @@
 							"Assignee" : null,
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-08-08",
-							"DueDate" : "2017-12-06",
+							"StartDate" : "2017-08-11",
+							"DueDate" : "2017-12-09",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-08-08",
-									"DueDate" : "2017-09-16",
+									"StartDate" : "2017-08-11",
+									"DueDate" : "2017-09-19",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-09-16",
-									"DueDate" : "2017-12-06",
+									"StartDate" : "2017-09-19",
+									"DueDate" : "2017-12-09",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1717,142 +1774,23 @@
 							"Assignee" : null,
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2017-01-10",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2017-01-13",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-10-21",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-10-24",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-10-21",
-									"DueDate" : "2017-01-10",
+									"StartDate" : "2016-10-24",
+									"DueDate" : "2017-01-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
 							]
 						}, {
-							"Key" : "ONESCREEN-9370",
-							"Name" : "OSEx tech debt #1",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9370",
-							"Status" : "Open",
-							"Priority" : "Unassigned",
-							"Size" : "XL",
-							"Assignee" : null,
-							"Project" : null,
-							"Impediment" : false,
-							"StartDate" : "2017-03-11",
-							"DueDate" : "2017-09-07",
-							"Phases" : [{
-									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-03-11",
-									"DueDate" : "2017-05-09",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}, {
-									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-05-09",
-									"DueDate" : "2017-09-07",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}
-							]
-						}
-					]
-				}, {
-					"HasInvalidDates" : false,
-					"HasObsoleteEpics" : false,
-					"Epics" : [{
-							"Key" : "ONESCREEN-9375",
-							"Name" : "OSEx advanced",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9375",
-							"Status" : "Open",
-							"Priority" : "Unassigned",
-							"Size" : "L",
-							"Assignee" : null,
-							"Project" : null,
-							"Impediment" : false,
-							"StartDate" : "2016-11-20",
-							"DueDate" : "2017-03-20",
-							"Phases" : [{
-									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-11-20",
-									"DueDate" : "2016-12-29",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}, {
-									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-12-29",
-									"DueDate" : "2017-03-20",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}
-							]
-						}
-					]
-				}, {
-					"HasInvalidDates" : false,
-					"HasObsoleteEpics" : false,
-					"Epics" : [{
-							"Key" : "ONESCREEN-9376",
-							"Name" : "Write-off",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9376",
-							"Status" : "Open",
-							"Priority" : "Unassigned",
-							"Size" : "M",
-							"Assignee" : null,
-							"Project" : null,
-							"Impediment" : false,
-							"StartDate" : "2017-02-27",
-							"DueDate" : "2017-05-28",
-							"Phases" : [{
-									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-02-27",
-									"DueDate" : "2017-03-28",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}, {
-									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-03-28",
-									"DueDate" : "2017-05-28",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}
-							]
-						}, {
-							"Key" : "ONESCREEN-9513",
-							"Name" : "[Tech] OSEx tech debt #2",
-							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9513",
-							"Status" : "Open",
-							"Priority" : "Unassigned",
-							"Size" : "L",
-							"Assignee" : null,
-							"Project" : null,
-							"Impediment" : false,
-							"StartDate" : "2017-07-07",
-							"DueDate" : "2017-11-04",
-							"Phases" : [{
-									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-07-07",
-									"DueDate" : "2017-08-15",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}, {
-									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-08-15",
-									"DueDate" : "2017-11-04",
-									"IsProgrammaticallyEstimated" : true,
-									"ToBeContinued" : false
-								}
-							]
-						}
-					]
-				}, {
-					"HasInvalidDates" : false,
-					"HasObsoleteEpics" : false,
-					"Epics" : [{
 							"Key" : "ONESCREEN-11301",
 							"Name" : "[DK] other: OSEx- inventory unblock",
 							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11301",
@@ -1878,6 +1816,120 @@
 									"ToBeContinued" : false
 								}
 							]
+						}, {
+							"Key" : "ONESCREEN-9370",
+							"Name" : "OSEx tech debt #1",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9370",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "XL",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-03-14",
+							"DueDate" : "2017-09-10",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-03-14",
+									"DueDate" : "2017-05-12",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-05-12",
+									"DueDate" : "2017-09-10",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9375",
+							"Name" : "OSEx advanced",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9375",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2016-11-23",
+							"DueDate" : "2017-03-23",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2016-11-23",
+									"DueDate" : "2017-01-01",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-01-01",
+									"DueDate" : "2017-03-23",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}
+					]
+				}, {
+					"HasInvalidDates" : false,
+					"HasObsoleteEpics" : false,
+					"Epics" : [{
+							"Key" : "ONESCREEN-9376",
+							"Name" : "Write-off",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9376",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "M",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-03-02",
+							"DueDate" : "2017-05-31",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-03-02",
+									"DueDate" : "2017-03-31",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-03-31",
+									"DueDate" : "2017-05-31",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-9513",
+							"Name" : "[Tech] OSEx tech debt #2",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-9513",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : null,
+							"Project" : null,
+							"Impediment" : false,
+							"StartDate" : "2017-07-10",
+							"DueDate" : "2017-11-07",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-07-10",
+									"DueDate" : "2017-08-18",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-08-18",
+									"DueDate" : "2017-11-07",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
 						}
 					]
 				}, {
@@ -1887,7 +1939,7 @@
 							"Key" : "ONESCREEN-11850",
 							"Name" : "Mass recall",
 							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-11850",
-							"Status" : "Ready for ISIT",
+							"Status" : "Development",
 							"Priority" : "Unassigned",
 							"Size" : "L",
 							"Assignee" : null,
@@ -1928,18 +1980,18 @@
 							"Assignee" : "olbi",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2017-01-10",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2017-01-13",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-10-21",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-10-24",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-10-21",
-									"DueDate" : "2017-01-10",
+									"StartDate" : "2016-10-24",
+									"DueDate" : "2017-01-13",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1954,18 +2006,18 @@
 							"Assignee" : "olbi",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-05-08",
-							"DueDate" : "2017-09-05",
+							"StartDate" : "2017-05-11",
+							"DueDate" : "2017-09-08",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-05-08",
-									"DueDate" : "2017-06-16",
+									"StartDate" : "2017-05-11",
+									"DueDate" : "2017-06-19",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-06-16",
-									"DueDate" : "2017-09-05",
+									"StartDate" : "2017-06-19",
+									"DueDate" : "2017-09-08",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -1984,19 +2036,46 @@
 							"Size" : "L",
 							"Assignee" : "olbi",
 							"Project" : null,
+							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2016-09-12",
-							"DueDate" : "2017-01-10",
+							"StartDate" : "2016-09-15",
+							"DueDate" : "2017-01-13",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2016-09-12",
-									"DueDate" : "2016-10-21",
+									"StartDate" : "2016-09-15",
+									"DueDate" : "2016-10-24",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2016-10-21",
-									"DueDate" : "2017-01-10",
+									"StartDate" : "2016-10-24",
+									"DueDate" : "2017-01-13",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}
+							]
+						}, {
+							"Key" : "ONESCREEN-13981",
+							"Name" : "LegA/LegB deployment for Test8",
+							"Link" : "https://telenor-ose.atlassian.net/browse/ONESCREEN-13981",
+							"Status" : "Open",
+							"Priority" : "Unassigned",
+							"Size" : "L",
+							"Assignee" : "olbi",
+							"Project" : "Hungary 2.0",
+							"Impediment" : false,
+							"StartDate" : "2017-05-11",
+							"DueDate" : "2017-09-08",
+							"Phases" : [{
+									"PhaseType" : "SpecificationToDesign",
+									"StartDate" : "2017-05-11",
+									"DueDate" : "2017-06-19",
+									"IsProgrammaticallyEstimated" : true,
+									"ToBeContinued" : false
+								}, {
+									"PhaseType" : "PreparedToIsit",
+									"StartDate" : "2017-06-19",
+									"DueDate" : "2017-09-08",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -2016,18 +2095,18 @@
 							"Assignee" : "olbi",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-01-09",
-							"DueDate" : "2017-05-09",
+							"StartDate" : "2017-01-12",
+							"DueDate" : "2017-05-12",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-01-09",
-									"DueDate" : "2017-02-17",
+									"StartDate" : "2017-01-12",
+									"DueDate" : "2017-02-20",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-02-17",
-									"DueDate" : "2017-05-09",
+									"StartDate" : "2017-02-20",
+									"DueDate" : "2017-05-12",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}
@@ -2047,18 +2126,18 @@
 							"Assignee" : "akal",
 							"Project" : null,
 							"Impediment" : false,
-							"StartDate" : "2017-01-09",
-							"DueDate" : "2017-05-09",
+							"StartDate" : "2017-01-12",
+							"DueDate" : "2017-05-12",
 							"Phases" : [{
 									"PhaseType" : "SpecificationToDesign",
-									"StartDate" : "2017-01-09",
-									"DueDate" : "2017-02-17",
+									"StartDate" : "2017-01-12",
+									"DueDate" : "2017-02-20",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}, {
 									"PhaseType" : "PreparedToIsit",
-									"StartDate" : "2017-02-17",
-									"DueDate" : "2017-05-09",
+									"StartDate" : "2017-02-20",
+									"DueDate" : "2017-05-12",
 									"IsProgrammaticallyEstimated" : true,
 									"ToBeContinued" : false
 								}

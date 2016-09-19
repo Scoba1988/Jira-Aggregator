@@ -1,4 +1,4 @@
-var $ =  window.$ = require('jquery');
+var $ = require('jquery');
 
 var moment = require('moment');
 require('moment-range');
